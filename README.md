@@ -34,3 +34,5 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 CREATE DATABASE taskmanager;
 ```
 
+2. Configure o application.properties ou application.yml:
+
