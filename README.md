@@ -28,3 +28,9 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 
 ### 🛠️ Configuração do Banco de Dados
 
+1. Crie um banco de dados no MySQL:
+
+```
+CREATE DATABASE taskmanager;
+```
+
