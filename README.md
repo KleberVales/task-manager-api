@@ -11,3 +11,9 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 * Lombok
 
 ## 📌 Funcionalidades
+
+✅ Criar uma nova tarefa
+✅ Listar todas as tarefas
+✅ Buscar uma tarefa por ID
+✅ Atualizar uma tarefa
+✅ Deletar uma tarefa
