@@ -17,3 +17,5 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 ✅ Buscar uma tarefa por ID\
 ✅ Atualizar uma tarefa\
 ✅ Deletar uma tarefa
+
+## 📦 Configuração do Projeto
