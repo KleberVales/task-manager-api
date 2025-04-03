@@ -6,3 +6,5 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 
 * Java 17+
 * Spring Boot (Spring Web, Spring Data JPA)
+* MySQL
+* Hibernate
