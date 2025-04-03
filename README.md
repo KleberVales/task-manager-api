@@ -23,4 +23,6 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 ### 📑 Pré-requisitos
 
 * Java 21
+* MySQL
+* Maven
 
