@@ -8,3 +8,4 @@ Uma API RESTful para gerenciamento de tarefas, desenvolvida com Java, Spring Boo
 * Spring Boot (Spring Web, Spring Data JPA)
 * MySQL
 * Hibernate
+* Lombok
