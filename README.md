@@ -50,3 +50,8 @@ spring.jpa.show-sql=true
 
 ### ▶️ Como Executar
 
+1. Clone o repositório:
+```
+git clone https://github.com/seu-usuario/rest-task-manager.git
+cd rest-task-manager
+```
