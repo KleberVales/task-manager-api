@@ -54,4 +54,11 @@ spring.jpa.show-sql=true
 ```
 git clone https://github.com/seu-usuario/rest-task-manager.git
 cd rest-task-manager
+
 ```
+2. Compile e execute o projeto:
+```
+mvn spring-boot:run
+
+```
+
