@@ -65,7 +65,7 @@ mvn spring-boot:run
 
 | Método	| Endpoint	| Descrição  |
 ---------------------------------------
-|GET	 | /tasks	| Lista todas as tarefas | 
+| GET	 | /tasks	| Lista todas as tarefas | 
 | GET	| /tasks/{id}	| Busca uma tarefa por ID |
 | POST	| /tasks	| Cria uma nova tarefa | 
 | PUT	| /tasks/{id}	| Atualiza uma tarefa existente | 
